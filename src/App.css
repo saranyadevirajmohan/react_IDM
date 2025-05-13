@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* h1{
+  color: red;
+}
+h3{
+  background-color: wheat;
+} */
+ .btn1{
+   text-align: center;
+   background-color:brown;
+   color: black;
+   width: 100px;
+   height: 100px;
+ }
+ .s1{
+  font-size: 50x;
+  color: blueviolet;
+  
+ }
+ .btn1:hover{
+  color: brown;
+ }
+ #saran{
+  
+ }

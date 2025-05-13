@@ -91,7 +91,7 @@ export default function App() {
 {/* <Bill/> */}
 {/* <Task3/> */}
 
-{/* <Routes>
+ <Routes>
   <Route index element={<Afirst_file/>}/>
   <Route path="output" element={<List />}/>
   <Route path="form" element={<Forms />}/>
@@ -99,9 +99,9 @@ export default function App() {
       <Route path="state" element={<State/>}/>
       <Route path="sideeffect-hook" element={<Effect/>}/>
   </Route>
-</Routes> */}
+</Routes> 
 
-<Demo />
+{/* <Demo /> */}
     </div>
   );
 }
